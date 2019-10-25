@@ -83,3 +83,5 @@ select=tkinter.OptionMenu(install, default, 'TSARED', 'TSARCTL')
 select.grid(row=0, column=0)
 
 tkinter.Button(install, text='install', command=lambda:installprog(default.get())).grid(row=0, column=1)
+
+root.mainloop()
