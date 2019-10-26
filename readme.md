@@ -18,3 +18,5 @@ how to use
 >run installer script ('install-TSARPKG.sh')
 
 >to run just by typing 'tsarpkg' (as root), type 'cp ~/TSARSOFT/TSARPKG/run.sh /bin/tsarpkg' (again, as root)
+-----------
+![](https://i.ibb.co/mHjzyG9/Deepin-Screenshot-select-area-20191026140749.png)
