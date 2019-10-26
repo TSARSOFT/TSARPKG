@@ -5,6 +5,15 @@ ver 1.0
 ---------
 ## warning! requires root
 -----
+# cool features!
+>installs any TSARSOFT software (is usualy updated very quickly as new software comes out)
+
+>automatically installs lates version
+
+>can also uninstall TSARSOFT software
+
+>can install any pacman/apt software
+=====
 how to use
 >run installer script ('install-TSARPKG.sh')
 
