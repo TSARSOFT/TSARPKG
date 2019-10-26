@@ -13,7 +13,7 @@ ver 1.0
 >can also uninstall TSARSOFT software
 
 >can install any pacman/apt software
-=====
+----
 how to use
 >run installer script ('install-TSARPKG.sh')
 
